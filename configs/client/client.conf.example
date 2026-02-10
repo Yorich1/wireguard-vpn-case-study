@@ -1,0 +1,11 @@
+[Interface]
+Address = 10.0.0.2/32
+PrivateKey =
+DNS = 1.1.1.1
+MTU = 1420
+
+[Peer]
+PublicKey =
+Endpoint = vpn.example.com:51820
+AllowedIPs = 0.0.0.0/0
+PersistentKeepalive = 25

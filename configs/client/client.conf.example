@@ -1,4 +1,4 @@
-[Interface]
+Interface]
 Address = 10.0.0.2/32
 PrivateKey =
 DNS = 1.1.1.1
